@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"KEYPAD1",1," Keypad 4x4"
+"U2",1," Arduino Uno R3"
+"U1",1," LCD 16 x 2 "
+"R1",1,"1 kΩ Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
+"D2, D5, D6, D7, D8, D1, D3, D4",8,"Red LED"
+"R2, R3, R4, R5, R6, R7, R8, R9",8,"100 Ω Resistor"
